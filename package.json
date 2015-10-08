@@ -1,0 +1,17 @@
+{
+  "name": "elm-bingo",
+  "version": "1.0.0",
+  "description": "Elm Bingo Tutorial from The Pragmatic Studio",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Will McNeilly",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-elm": "^1.3.0"
+  }
+}
